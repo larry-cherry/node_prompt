@@ -1,0 +1,29 @@
+{
+  "name": "node_prompt",
+  "version": "0.1.0",
+  "description": "Prompt for the node command-line",
+  "main": "prompt.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larry-cherry/node_prompt.git"
+  },
+  "keywords": [
+    "Node",
+    "Jasmine",
+    "Prompt",
+    "Input"
+  ],
+  "author": "Larry Cherry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larry-cherry/node_prompt/issues"
+  },
+  "homepage": "https://github.com/larry-cherry/node_prompt#readme",
+  "dependencies": {
+    "jasmine": "^2.8.0",
+    "pryjs": "^1.0.0"
+  }
+}
